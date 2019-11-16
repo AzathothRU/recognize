@@ -1,1 +1,1 @@
-Recognize decryotion cards for DM2019. version 0.1
+Recognize decryption cards for DM2019. version 0.2
